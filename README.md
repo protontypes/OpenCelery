@@ -1,7 +1,7 @@
 <img align="center" src="./docs/logo_LibreSelery-04.png" width="400">
 
 
-**We just launched! :tada:  Please read our [pitch slides](https://github.com/protontypes/organization-documents/blob/master/slides/protontypes_LibreSelery.pdf) or [introductory blog post](https://protontypes.eu/blog/2020/09/02/launch-of-protontypes/).** 
+**This project is deprecated without any replacement. If you are interested into fully automated and transparent distribution of funding within open source please contact the main developers.** 
 
 ### Continuous Funding
 
