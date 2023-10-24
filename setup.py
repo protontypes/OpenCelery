@@ -32,7 +32,7 @@ setup(
         "pybraries==0.3.0",
         "urlextract==1.0.0",
         "matplotlib==3.3.0",
-        "numpy==1.19.1",
+        "numpy==1.22.0",
         "prompt_toolkit",
         "qrcode",
         "wheel",
